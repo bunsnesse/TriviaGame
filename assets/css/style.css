@@ -1,0 +1,14 @@
+body{
+	background-image: url(../images/HouseSigils.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: black;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
